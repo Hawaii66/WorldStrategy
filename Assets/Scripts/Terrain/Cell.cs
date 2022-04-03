@@ -33,18 +33,14 @@ namespace WorldStrategy
 
         private void Start()
         {
-            if(position == new Coord(8,0,8))
-            {
-                unit = UnitManager.Instance.SpawnUnit(position, UnitType.Sword, 0);
-            }
-            if (position == new Coord(7, 0, 8))
+            if(position == new Coord(14,0,14))
             {
                 unit = UnitManager.Instance.SpawnUnit(position, UnitType.Settler, 0);
             }
 
-            if (position == new Coord(4, 0, 8))
+            if (position == new Coord(1, 0, 1))
             {
-                unit = UnitManager.Instance.SpawnUnit(position, UnitType.Default, 1);
+                unit = UnitManager.Instance.SpawnUnit(position, UnitType.Settler, 1);
             }
 
             UpdateMesh();
