@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c54df580f7d40a4487e226772e2cff6, type: 3}
+  m_Name: Lumber
+  m_EditorClassIdentifier: 
+  name: Lumber
+  type: 2
+  defaultMesh: {fileID: -2432090755550338912, guid: dc599d758495adc439a0f3c4beac0085, type: 3}
+  BuildTime: 2
+  icon: {fileID: 21300000, guid: e632b58bcea6e254588d85357bf59adc, type: 3}
+  buildInTerritory: 1
+  city:
+    maxHealth: 0
