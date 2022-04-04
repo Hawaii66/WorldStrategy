@@ -20,3 +20,4 @@ MonoBehaviour:
   attachStrength: 5
   icon: {fileID: 0}
   productionCost: 5
+  dash: 1

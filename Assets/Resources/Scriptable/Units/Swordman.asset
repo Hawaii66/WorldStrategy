@@ -16,8 +16,8 @@ MonoBehaviour:
   type: 4
   defaultMesh: {fileID: -2432090755550338912, guid: 93b6b66e52eb9aa448986188eef8d4f7, type: 3}
   walkdistance: 20
-  startHealth: 30
-  attachStrength: 15
+  startHealth: 20
+  attachStrength: 8
   icon: {fileID: 0}
-  productionCost: 20
+  productionCost: 8
   dash: 1

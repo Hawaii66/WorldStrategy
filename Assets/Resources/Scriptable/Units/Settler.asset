@@ -19,4 +19,5 @@ MonoBehaviour:
   startHealth: 8
   attachStrength: 3
   icon: {fileID: 0}
-  productionCost: 15
+  productionCost: 7
+  dash: 0
